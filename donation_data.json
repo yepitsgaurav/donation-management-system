@@ -1,0 +1,14 @@
+{
+    "donors": {
+        "vija dinanath chauvan": 200,
+        "ram gopal varma": 200,
+        "gaurav pramod waghale": 1000,
+        "sandeep chaudari": 500,
+        "harsh zhalte": 201,
+        "bablu": 50000
+    },
+    "expenses": {},
+    "total_collection": 52101,
+    "collection_left": 52101,
+    "total_expense": 0
+}
