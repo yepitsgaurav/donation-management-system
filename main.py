@@ -127,7 +127,7 @@ while True:
                     continue
 
         elif chh == 2:
-            print(Fore.LIGHTYELLOW_EX, 'EXPENSE'.center(30, '-'+ Fore.RESET))
+            print(Fore.LIGHTYELLOW_EX, 'EXPENSE'.center(30, '-')+Fore.RESET)
 
             for name, item in expenses.items():
                 print(f"{name}".ljust(20, '-'), f": {item}".rjust(10))
